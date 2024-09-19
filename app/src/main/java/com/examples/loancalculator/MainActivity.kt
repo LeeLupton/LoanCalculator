@@ -1,4 +1,3 @@
-// src/main/java/com/example/loancalculator/MainActivity.kt
 package com.example.loancalculator
 
 import androidx.appcompat.app.AppCompatActivity
