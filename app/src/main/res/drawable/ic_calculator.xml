@@ -1,0 +1,98 @@
+<!-- res/drawable/ic_calculator.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Calculator Body -->
+    <path
+        android:fillColor="#FF6200EE"
+        android:pathData="M8,20h92a4,4 0 0,1 4,4v60a4,4 0 0,1-4,4H8a4,4 0 0,1-4-4V24a4,4 0 0,1,4-4zM12,24v60h84V24H12z"/>
+    
+    <!-- Screen -->
+    <rect
+        android:x="16"
+        android:y="28"
+        android:width="76"
+        android:height="24"
+        android:fillColor="#FFFFFF"/>
+    
+    <!-- Buttons -->
+    <!-- First Row -->
+    <rect
+        android:x="20"
+        android:y="60"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="40"
+        android:y="60"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="60"
+        android:y="60"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="80"
+        android:y="60"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    
+    <!-- Second Row -->
+    <rect
+        android:x="20"
+        android:y="80"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="40"
+        android:y="80"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="60"
+        android:y="80"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="80"
+        android:y="80"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    
+    <!-- Third Row -->
+    <rect
+        android:x="20"
+        android:y="100"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="40"
+        android:y="100"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="60"
+        android:y="100"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+    <rect
+        android:x="80"
+        android:y="100"
+        android:width="16"
+        android:height="16"
+        android:fillColor="#FF6200EE"/>
+</vector>
