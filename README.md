@@ -18,7 +18,7 @@ A simple Android app to calculate monthly loan payments based on loan amount, in
 
 1. Clone the repository:
     ```
-    git clone https://github.com/LeeLupton/Loan-Calculator-Android.git
+    git clone https://github.com/LeeLupton/LoanCalculator.git
     ```
 2. Open the project in Android Studio.
 3. Sync Gradle and build the project.
