@@ -46,8 +46,7 @@ class MainActivity : AppCompatActivity() {
             val monthlyPayment =
                 (loanAmount * monthlyRate) / (1 - Math.pow(1 + monthlyRate, -numberOfPayments))
 
-            val formattedPayment = String.format("$%.2f", monthlyPayment)
-            tvMonthlyPayment.text = getString(R.string.monthly_payment, formattedPayment.toString())
+            tvMonthlyPayment.text = getString(R.string.monthly_payment, monthlyPayment)
         } catch (e: Exception) {
             // Handle the exception (e.g., log it, display an error message)
             Log.e("LoanCalculator", "Error calculating loan", e)
