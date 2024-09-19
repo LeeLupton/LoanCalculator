@@ -5,6 +5,6 @@
     <string name="interest_rate_hint">Interest Rate (%)</string>
     <string name="loan_term_hint">Loan Term (years)</string>
     <string name="calculate_button">Calculate</string>
-    <string name="monthly_payment">Monthly Payment: %1$.2f</string>
+    <string name="monthly_payment">Monthly Payment: $%1$.2f</string>
     <string name="error_invalid_input">Please enter valid numbers.</string>
 </resources>
