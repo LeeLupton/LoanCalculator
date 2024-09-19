@@ -1,4 +1,4 @@
-<!-- res/mipmap-anydpi-v26/ic_launcher.xml -->
+<!-- res/mipmap-anydpi/ic_launcher.xml -->
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
     <background android:drawable="@color/purple_500"/>
     <foreground android:drawable="@drawable/ic_calculator"/>
