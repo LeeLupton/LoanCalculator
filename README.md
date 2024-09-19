@@ -24,6 +24,8 @@ A simple Android app to calculate monthly loan payments based on loan amount, in
 3. Sync Gradle and build the project.
 4. Run the app on an emulator or physical device.
 
+#### STILL UNDER DEVELOPMENT HELP IS WELCOME
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
