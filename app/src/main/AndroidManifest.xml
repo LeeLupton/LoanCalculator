@@ -5,7 +5,9 @@
     android:roundIcon="@mipmap/ic_launcher_round"
     android:label="@string/app_name"
     android:theme="@style/Theme.LoanCalculator">
-    <activity android:name=".MainActivity">
+    <activity 
+        android:name=".MainActivity"
+        android:export="true">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
             <category android:name="android.intent.category.LAUNCHER" />
